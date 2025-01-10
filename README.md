@@ -1,5 +1,6 @@
 # AgathaCore
 Agatha功能内核
+
 ### avatar.py
 路径：/avatar/{arg}
 
@@ -7,4 +8,5 @@ Agatha功能内核
 ### bot.js
 Mineflayer Bot机器人，启动代码：
 > node bot.js AgBot
+
 AgBot可替换为游戏ID
